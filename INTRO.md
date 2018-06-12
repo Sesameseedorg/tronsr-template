@@ -1,1 +1,1 @@
-A short introduction about your team
+Sesameseed exists to provide fair and equal participation to the Tron community in the “Super Representative” process. Sesameseed intends to conduct itself as a collective instrument of its community and fairly distribute the rewards it generates across its membership.

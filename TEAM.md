@@ -20,15 +20,11 @@ A Human Resource Management Professional certified in PHR. Excited to bring A pa
 
 ### Head of Marketing
 
-<img src="https://cdn-images-1.medium.com/max/600/1*zlByjnthCaVBAecjdSh9qw.jpeg">
-
 Marketing strategist, technologist, and life-long student with a penchant for solving problems with emerging technology. Has over 15 years of experience implementing solutions to complex information management problems for startup and corporate clients. Is passionate about solving problems using Blockchain technology.
 
 ## Angel
 
 ### Developer
-
-<img src="https://cdn-images-1.medium.com/max/600/1*2S_Q940tJ0tAd2weITzfiQ.jpeg">
 
 Multidisciplinary developer with more than 7 years of experience. Working for several companies in game/app/web industry, a techy enthusiast. Passionate for learning and creating state-of-art technology that positively impact the community.
 

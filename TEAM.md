@@ -50,6 +50,7 @@ Political Science and Communication background with a passion for design and fil
 
 ### Head of Security and Network/Node
 
+
 ## Klay 
 
 ### Head of Finance

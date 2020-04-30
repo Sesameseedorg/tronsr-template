@@ -1,12 +1,9 @@
-## 2018 Expenditure Budget and Development Plan by June 26th
+The 80:10:10 reward model is a representation of the community-first ideology that Sesameseed embraces. Rewards are distributed as SEED token. Voting for Sesameseed entitles an individual to their proportional share of 80% of node rewards, 10% is allocated for the SEEDGerminator Development Fund, and 10% is allocated for Operating Expenses.
 
-$80,000 budget for Initial Technical Development and Implementation to Include:
+For more information about SEED and its pegged value:
 
-· Two Hardware Node Servers, with a Cloud/Hosted AWS solution.
+https://medium.com/sesameseedorg/seed-multi-chain-peg-and-rewards-update-d23030e60a95
 
-· Community Website and Registration Program
+If you have any questions, please reach out to our team anytime.
 
-· Marketing and Community Outreach
-
-## 2018 Hardware Capacity Upgrade after June 26th
-$110,000 earmarked for Security, IT Infrastructure and Testing environment. Investment to Include New Primary Node Located in Los Angeles, CA.
+https://t.me/SesameseedOrg

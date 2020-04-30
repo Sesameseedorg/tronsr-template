@@ -1,7 +1,27 @@
-Sesameseed exists to provide fair and equal participation to the Tron community in the “Super Representative” process. Sesameseed intends to conduct itself as a collective instrument of its community and fairly distribute the rewards it generates across its membership.
+**Sesameseed** is a community that exists on multiple blockchains created to support its members and developers by providing fair and transparent representation in delegated governance. Sesameseed reliably distributes daily rewards to its voting community in the form of SEED, an auto-compounding token that is backed by node rewards that are earned from producing blocks on multiple blockchains (TRON, Ontology, and Harmony). The peg is designed to always increase in value and the token is exchangeable for its pegged value at any time.
 
-Website: www.sesameseed.org
+Sesameseed has developed their multichain staking wallet, **Sprout**,to make staking simple and accessible to everyone and to earn better rewards. Sign up to Sprout today.
 
-Twitter: https://twitter.com/sesameseed_SR
+https://sprout.sesameseed.org
 
-Telegram: https://t.me/sesame_seed_community
+To learn more about Sesameseed, please join our community.
+
+Website: https://Sesameseed.org 
+
+Telegram: https://t.me/SesameseedOrg
+
+Twitter: https://twitter.com/SesameseedOrg
+
+Reddit: https://www.reddit.com/r/SesameseedOrg/
+
+Medium: https://medium.com/SesameseedOrg 
+
+YouTube: https://www.youtube.com/SesameseedOrg 
+
+Facebook: https://www.facebook.com/SesameseedOrg 
+
+Instagram: https://www.instagram.com/SesameseedOrg/ 
+
+LinkedIn: https://www.linkedin.com/company/SesameseedOrg 
+
+Steem: https://steempeak.com/@SesameseedOrg
